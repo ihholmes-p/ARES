@@ -5,7 +5,7 @@ ARES uses reward shaping to help solve sparse and delayed reward environments.
 
 ## Requirements
 
-- **Python version**: 3.10.12  
+- **Python version** (can be different, but this was used in the experiments): 3.10.12  
 - **Dependencies**:  
   Install via pip:
   ```bash
